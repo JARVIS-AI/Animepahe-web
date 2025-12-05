@@ -5,3 +5,6 @@ env = { }
 
 [triggers]
 crons = [ ]
+
+[assets]
+directory = "../pages/dist"
